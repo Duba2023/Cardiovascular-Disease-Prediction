@@ -58,27 +58,6 @@ Machine Learning: Random Forest Classifier for prediction.
 
 Hyperparameter Tuning: RandomizedSearchCV to improve model performance.
 
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/cardiovascular-disease-prediction.git
-cd cardiovascular-disease-prediction
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-(Typical requirements: numpy, pandas, matplotlib, seaborn, scikit-learn, scipy)
-
-Open the notebook:
-
-jupyter notebook "Cardiovascular (1).ipynb"
-
-
-Run cells sequentially to reproduce results.
 
 ✅ Results
 
